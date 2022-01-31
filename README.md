@@ -1,4 +1,4 @@
-# learning with The Odin Project
+# Learning with The Odin Project
 
-Hello Odin!
-TOP is super fun to learn with
+Hello **Odin**!
+**TOP** is super fun to learn with
