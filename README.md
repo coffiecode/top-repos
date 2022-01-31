@@ -1,2 +1,4 @@
-# top-repos
-Going through T.O.P
+# learning with The Odin Project
+
+Hello Odin!
+TOP is super fun to learn with
